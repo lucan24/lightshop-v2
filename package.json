@@ -1,0 +1,13 @@
+{
+  "name": "lightshop-stripe-checkout-sketch",
+  "private": true,
+  "description": "Minimal Node server: create Stripe Checkout Sessions + webhook outline",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "stripe": "^17.4.0"
+  }
+}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a0000"/>
+      <stop offset="100%" stop-color="#5a0008"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="80" y="200" font-family="Georgia, serif" font-size="72" font-weight="700" fill="#fff">Lightshop</text>
+  <text x="80" y="290" font-family="Arial, sans-serif" font-size="36" fill="#ffaaaa">Shop live. Buy smarter.</text>
+  <text x="80" y="520" font-family="Arial, sans-serif" font-size="24" fill="rgba(255,200,200,0.55)">Replace this SVG with a 1200ù630 PNG for best social previews.</text>
+</svg>
